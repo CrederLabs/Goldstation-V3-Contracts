@@ -57,3 +57,14 @@ Liquidity : TBD
 ## LM Pool Deployer
 
 `0x7Be11a952Dadb3c9CD570CE589a5bD8BB9eefF0C`
+
+---
+
+# V3 Pool Addresses
+
+## GPC <> USDC
+`0x93FB3D69e9383c9c5eeDcbA3Bf5886c753242b43`
+
+## GPC <> AVAX
+`0x85b54E9e86c2061c4d49608c51111Db2A914D731`
+
