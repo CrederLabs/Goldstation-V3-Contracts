@@ -4,9 +4,9 @@ This repository is forked from [PancakeSwap](https://github.com/pancakeswap/panc
 
 # URLs
 
-Swap : TBD
+Swap : [Goldstation Swap Page](https://goldstation.io/exchange/swap)
 
-Liquidity : TBD
+Liquidity : [Goldstation V3 Liquidity Pool](https://goldstation.io/v3/earn/lp)
 
 # Smart Contract Addresses
 
@@ -63,8 +63,9 @@ Liquidity : TBD
 # V3 Pool Addresses
 
 ## GPC <> USDC
+
 `0x93FB3D69e9383c9c5eeDcbA3Bf5886c753242b43`
 
 ## GPC <> AVAX
-`0x85b54E9e86c2061c4d49608c51111Db2A914D731`
 
+`0x85b54E9e86c2061c4d49608c51111Db2A914D731`
