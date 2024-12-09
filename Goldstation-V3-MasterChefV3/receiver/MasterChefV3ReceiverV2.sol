@@ -16,7 +16,7 @@ contract MasterChefV3ReceiverV2 is Ownable {
 
     error NotOwnerOrOperator();
     error ZeroAddress();
-    error NoBalance();
+    // error NoBalance();
 
     event NewOperator(address indexed operatorAddress);
     event Upkeep(address indexed to, uint256 amount, bool withUpdate);

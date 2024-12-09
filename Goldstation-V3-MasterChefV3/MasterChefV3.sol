@@ -107,7 +107,7 @@ contract MasterChefV3 is INonfungiblePositionManagerStruct, Multicall, Ownable, 
 
     error ZeroAddress();
     error NotOwnerOrOperator();
-    error NoBalance();
+    // error NoBalance();
     error NotPancakeNFT();
     error InvalidNFT();
     error NotOwner();
