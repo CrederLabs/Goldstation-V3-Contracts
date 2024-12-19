@@ -69,3 +69,20 @@ Liquidity : [Goldstation V3 Liquidity Pool](https://goldstation.io/v3/earn/lp)
 ## GPC <> AVAX
 
 `0x85b54E9e86c2061c4d49608c51111Db2A914D731`
+
+## GPC <> WDIGAU
+
+`0x8f2855c93B73D0511fA4a344C8f2239f3A59A244`
+
+---
+
+# Token on Goldstation Addresses
+
+- GPC
+  - `0x1b27D7A06DeEa4d5CB4fd60c164153C90f64281D`
+- USDC
+  - `0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E`
+- WAVAX
+  - `0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7`
+- WDIGAU
+  - `0x2c3Bb3A01bd6de443DD052102Cf3acb7cd37f41A`
