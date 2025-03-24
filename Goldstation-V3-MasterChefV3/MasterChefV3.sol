@@ -99,7 +99,8 @@ contract MasterChefV3 is INonfungiblePositionManagerStruct, Multicall, Ownable, 
     /// @notice Basic boost factor, none boosted user's boost factor
     uint256 public constant BOOST_PRECISION = 100 * 1e10;
     /// @notice Hard limit for maxmium boost factor, it must greater than BOOST_PRECISION
-    uint256 public constant MAX_BOOST_PRECISION = 200 * 1e10;
+    /// @notice Maximum boost is 2.5 for Goldstation DEX
+    uint256 public constant MAX_BOOST_PRECISION = 250 * 1e10;
     uint256 constant Q128 = 0x100000000000000000000000000000000;
 
     /// @notice Record the cake amount belong to MasterChefV3.
